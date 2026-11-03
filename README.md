@@ -1,4 +1,4 @@
-## 4-bit ALU
+## 4-BIT Arithmetic Logic Unit
 
 ### Team members
 
