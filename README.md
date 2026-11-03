@@ -5,7 +5,7 @@
 - [Nakul G](https://www.linkedin.com/in/nakul-g-176b22387/)
 - [Nandhu Ramesh](https://www.linkedin.com/in/nandhu-ramesh-419635351/)
 - [S kailas](https://www.linkedin.com/in/s-kailas-575026366/)
-- [Vyshah Rajesh](https://www.linkedin.com/in/vyshakh-rajesh/)
+- [Vyshakh Rajesh](https://www.linkedin.com/in/vyshakh-rajesh/)
 
 We Designed and built a 4-bit ALU using discrete logic ICs.
 
