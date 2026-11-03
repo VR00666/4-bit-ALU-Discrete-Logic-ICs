@@ -7,7 +7,7 @@
 - [S kailas](https://www.linkedin.com/in/s-kailas-575026366/)
 - [Vyshakh Rajesh](https://www.linkedin.com/in/vyshakh-rajesh/)
 
-We Designed and built a 4-bit ALU using discrete logic ICs.
+We designed and built a 4-bit ALU using discrete logic ICs.
 
 **Circuit Designed and Simulated using:**
 [Proteus](https://www.labcenter.com/)
